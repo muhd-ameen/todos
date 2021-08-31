@@ -1,4 +1,4 @@
-# mytodo
+# Todos
 
 A new Flutter project for  Todo
 
